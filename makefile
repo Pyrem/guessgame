@@ -1,4 +1,4 @@
 README.md:
-	echo "guessinggame" > README.txt
-	date >> README.txt
-	wc -l guessinggame.sh | egrep -o "[0-9]+" >> README.txt
+	echo "guessinggame" > README.md
+	date >> README.md
+	wc -l guessinggame.sh | egrep -o "[0-9]+" >> README.md
